@@ -14,7 +14,7 @@ Washington Wu
 
 ## Tech Stack
 - **Language:** Python 3.12
-- **Package Manager:** [uv](https://github.com/astral-sh/uv) (Modern, high-performance replacement for pip)
+- **Package Manager:** [uv](https://github.com/astral-sh/uv) 
 - **Framework:** FastAPI & Uvicorn
 - **ML/Libraries:** Scikit-Learn, Pandas, Numpy
 
